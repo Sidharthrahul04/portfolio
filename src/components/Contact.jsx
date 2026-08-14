@@ -114,8 +114,7 @@ const Contact = () => {
             </div>
 
             <p className="footer">
-                © {new Date().getFullYear()} Built with patience, coffee, and a lot of
-                console.logs by <strong>{personalInfo.name} {personalInfo.lastName}</strong>.
+                © {new Date().getFullYear()} Built with patience,curiosity and continuos learning <strong>{personalInfo.name} {personalInfo.lastName}</strong>.
             </p>
         </section>
     );
