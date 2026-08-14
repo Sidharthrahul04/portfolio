@@ -11,7 +11,7 @@ export const personalInfo = {
     education: 'Graduated MCA From RIT Kottayam',
     phone: '+91 81388 23167',
     email: 'rahulsidharth004@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/SidharthRahul',
+    linkedin: 'https://www.linkedin.com/in/sidharthrahul04/',
     github: 'https://github.com/Sidharthrahul04',
     images: {
         avatar: '/sidhuu.jpg',
